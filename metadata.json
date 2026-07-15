@@ -1,0 +1,8 @@
+{
+  "name": "Royal Flats House Management",
+  "description": "A luxury property management application for tenants, caretakers, and landlords featuring bill tracking, automated notifications, and AI-assisted management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
